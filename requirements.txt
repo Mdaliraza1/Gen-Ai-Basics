@@ -1,8 +1,11 @@
+streamlit
 langchain
-langchain-core
 langchain-community
-pypdf
-pymupdf
-sentence-transformers
+langchain-huggingface
 faiss-cpu
-ipywidgets
+sentence-transformers
+huggingface_hub
+unstructured
+pypdf
+python-docx
+pandas
