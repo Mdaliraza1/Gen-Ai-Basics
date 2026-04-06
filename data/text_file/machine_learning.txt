@@ -1,0 +1,14 @@
+Machine Learning Basics
+    Machine Learning is a field of artificial intelligence that focuses on building systems that learn from data.
+    It involves training models to make predictions or decisions based on input data.
+
+    Key Concepts:
+    - Supervised Learning
+    - Unsupervised Learning
+    - Reinforcement Learning
+
+    Machine Learning is used in various applications such as:
+    - Image classification
+    - Natural Language Processing
+    - Recommendation Systems
+    
